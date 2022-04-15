@@ -10,10 +10,10 @@ relative_permalinks: true
 # Setup
 timezone:            your timezone # eg. Asia/Kathmandu
 locale:              your locale language # eg. en_us
-name:				         site name
+name:				         Syiffa's Website
 title:               site title
-tagline:             'tagline'
-description:         'description'
+tagline:             'Beauty is terror.'
+description:         'A personal website'
 url:                 site url
 rss:                 rss feed url
 baseurl:             '/'
